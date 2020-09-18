@@ -1,3 +1,7 @@
 ok nhaa
 some changes
+<<<<<<< HEAD
 Greetings from my computer
+=======
+Greetings from GitHub
+>>>>>>> 9e09e97e78647f40dc72d6b927714010dbbcaf37
